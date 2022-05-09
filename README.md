@@ -1,1 +1,1 @@
-# pwa-example
+# Simple PWA Example
